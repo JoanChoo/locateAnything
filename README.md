@@ -1,0 +1,4 @@
+使用英伟达locateanything模型进行目标识别输出yolo的目标识别格式标签
+
+1. 直接解压然后粘贴到英伟达的locateanything项目中
+2. 修改detect_image.py文件中需要识别的目标, 可以识别多个目标, 根据需要修改prompt可以修改任务要求
